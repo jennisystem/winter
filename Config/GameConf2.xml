@@ -1,0 +1,12 @@
+<winter>
+	<port>6114</port>
+	<ip>0</ip>
+	<type>game</type>
+	<mysql>
+		<host>127.0.0.1</host>
+		<username>root</username>
+		<dbname>winterdb</dbname>
+		<password></password>
+		<userTableName>penguins</userTableName>
+	</mysql>
+</winter>
